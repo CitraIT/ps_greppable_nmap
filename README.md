@@ -1,2 +1,2 @@
-# ps_greppable_nmap
-Powershell script to demonstrate how parse nmap greppable output
+# Powershell Script to Consume Nmap Greppable Output
+### This script is a Proof of concept on how to consume output from nmap in greppable format to input to another processes.
